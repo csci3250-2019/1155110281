@@ -34,16 +34,11 @@ Task List:
 The following is the use of Table:
 
 
-| Name | Handsomeness|
-
-| :------ | :---- |
-
+| Name | Handsomeness |
+| :--- | :--------=-- |
 |    黎明| lv 5**|
-
 | 劉德華| lv 5* |
-
 | 郭富城 | lv 5|
-
 |張學友| lv 4 |
 
 
