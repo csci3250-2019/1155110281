@@ -41,5 +41,6 @@ The following is the use of Table:
 | 郭富城 | lv 5|
 |張學友| lv 4 |
 
-
+Screenshot:
+![screenshot](新建位图图像.bmp)
 
